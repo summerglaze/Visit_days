@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">30 Days of Poland</string>
+    <string name="day">Day</string>
+    <string name="topic1">Gdansk - townhouses by the river.</string>
+    <string name="description1">The city lies at the southern edge of Gdańsk Bay, close to the city of Gdynia and resort town of Sopot; these form a metropolitan area called the Tricity (Trojmiasto), with a population of approximately 1.5 million.</string>
+    <string name="topic2">Gdynia - a view on a cliff.</string>
+    <string name="description2">It is a city in northern Poland and a seaport on the Baltic Sea coast. Historically and culturally part of Kashubia and Eastern Pomerania, Gdynia for centuries remained a small fishing village.</string>
+    <string name="topic3">Poznan - Merchant houses, originally 16th centurys herring stalls, at the Old Market Square</string>
+    <string name="description3"> It is a city on the River Warta in west-central Poland, within the Greater Poland region. The city is an important cultural and business centre, and one of Polands most populous regions with many regional customs such as Saint Johns Fair (Jarmark Swietojanski), traditional Saint Martins croissants and a local dialect. Among its most important heritage sites are the Renaissance Old Town, Town Hall and Gothic Cathedral.</string>
+    <string name="topic4">Wroclaw - old town, the market.</string>
+    <string name="description4">It is situated in southwestern Poland and the largest city in the historical region of Silesia. Wroclaw is a university city with a student population of over 130,000, making it one of the most youth-oriented cities in the country. Since the beginning of the 20th century, the University of Wrocław, previously Breslau University, has produced nine Nobel Prize laureates and is renowned for its high quality of teaching.</string>
+    <string name="topic5">Warsaw - Historic center.</string>
+    <string name="description5">Warsaw,officially the Capital City of Warsaw, is the capital and largest city of Poland. The metropolis stands on the River Vistula in east-central Poland. Warsaw is an alpha global city, a major cultural, political and economic hub, and the countrys seat of government.</string>
+    <string name="topic6">Krakow - town square.</string>
+    <string name="description6">is the second-largest and one of the oldest cities in Poland. Situated on the Vistula River in Lesser Poland Voivodeship, the city dates back to the seventh century. Kraków was the official capital of Poland until 1596 and has traditionally been one of the leading centres of Polish academic, economic, cultural and artistic life. Cited as one of Europes most beautiful cities, its Old Town with Wawel Royal Castle was declared a UNESCO World Heritage Site in 1978, one of the worlds first sites granted the status.</string>
+    <string name="topic7">Bydgoszcz - Dluga street.</string>
+    <string name="description7">Bydgoszcz is a city in northern Poland, straddling the confluence of the Vistula River and its left-bank tributary, the Brda. Bydgoszcz is an architecturally rich city, with gothic, neo-gothic, neo-baroque, neoclassicist, modernist and Art Nouveau styles present, for which it has earned the nickname Little Berlin. The notable granaries on Mill Island and along the riverside belong to one of the most recognized timber-framed landmarks in Poland.</string>
+</resources>
